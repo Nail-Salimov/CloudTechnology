@@ -14,7 +14,7 @@ osf_bucket: bucket
 - python cloudphoto.py list
 - python cloudphoto.py list -a album
 
-Требуемые зависимости:
+Требуемые зависимости(установить, если их нет через pip):
 - os
 - boto3
 - logging
