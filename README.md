@@ -7,7 +7,7 @@ osf_secret_access_key: secret
 osf_bucket: bucket
 ```
 
-Команды:
+Команды запуска cloudphoto.py:
 - python cloudphoto.py upload -p path -a album
 - python cloudphoto.py download -p path -a album
 - python cloudphoto.py list
